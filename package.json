@@ -1,0 +1,20 @@
+{
+  "name": "tangram-widgets-loader",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "loader": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wbb1@meitu.com",
+  "license": "ISC",
+  "devDependencies": {
+    "bluebird": "^3.5.2",
+    "find-folder": "0.0.1",
+    "loader-utils": "^1.1.0"
+  }
+}
