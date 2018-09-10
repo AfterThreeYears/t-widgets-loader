@@ -1,6 +1,6 @@
 {
-  "name": "tangram-widgets-loader",
-  "version": "0.0.1",
+  "name": "@meipu/tangram-widgets-loader",
+  "version": "0.0.3",
   "description": "",
   "main": "lib/index.js",
   "loader": "lib/index.js",
